@@ -1,0 +1,23 @@
+{
+  "name": "http_headers",
+  "version": "1.0.0",
+  "description": "Express App for testing HTTP security headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsontario/http_headers.git"
+  },
+  "author": "Timothy Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsontario/http_headers/issues"
+  },
+  "homepage": "https://github.com/tsontario/http_headers#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "helmet": "^6.0.0"
+  }
+}
